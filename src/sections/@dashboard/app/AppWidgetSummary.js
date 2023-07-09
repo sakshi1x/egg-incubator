@@ -65,6 +65,7 @@ export default function AppWidgetSummary({ title, total,condition, icon, color =
         <Typography variant="subtitle2" sx={{ opacity: 0.72 }}>
             {condition}
         </Typography>
+
     </Card>
   );
 }

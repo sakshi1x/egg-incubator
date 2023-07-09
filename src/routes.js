@@ -8,7 +8,9 @@ import LoginPage from './pages/LoginPage';
 import Page404 from './pages/Page404';
 
 import DashboardAppPage from './pages/DashboardAppPage';
+import Multiply from './pages/multiply';
 import Test from "./pages/test";
+
 
 // ----------------------------------------------------------------------
 
